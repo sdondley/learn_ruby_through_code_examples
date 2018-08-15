@@ -1,0 +1,1 @@
+This is a project I'm using to teach myself Ruby. In this project, each `*.rb` file is a short lesson. Lessons are organized into topics which are organized by folders. Open a folder to see the lessons. Each lesson should be executable on your machine. Comments are contained in the lesson to help explain what the code is doing.
